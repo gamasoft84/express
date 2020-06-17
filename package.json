@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gamasoft84/express/issues"
   },
-  "homepage": "https://github.com/gamasoft84/express#readme"
+  "homepage": "https://github.com/gamasoft84/express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
