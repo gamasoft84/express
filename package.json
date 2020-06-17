@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gamasoft84/express#readme",
   "dependencies": {
+    "azure-function-express": "^2.0.0",
     "express": "^4.17.1"
   }
 }
