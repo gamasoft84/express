@@ -1,0 +1,19 @@
+{
+  "name": "mx.com.gamasoft",
+  "version": "1.0.0",
+  "description": "Proyecto de prueba con la libreria express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamasoft84/express.git"
+  },
+  "author": "Richard Gama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gamasoft84/express/issues"
+  },
+  "homepage": "https://github.com/gamasoft84/express#readme"
+}
